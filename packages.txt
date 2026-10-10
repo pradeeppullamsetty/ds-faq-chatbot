@@ -1,3 +1,0 @@
-# System dependencies for Streamlit Cloud (if needed)
-# Usually not required for pure Python packages, but safe to include
-libstdc++6
