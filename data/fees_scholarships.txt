@@ -1,0 +1,179 @@
+# Sample College - Fees Structure and Scholarships
+
+## Fee Structure Overview
+All fees are payable per semester (two semesters per academic year). Fees are subject to revision annually (typically 5-8% increase).
+
+## Undergraduate Programs - Annual Fees (INR)
+
+### B.Tech Programs (4 Years / 8 Semesters)
+| Component | Semester 1 | Semester 2 | Semesters 3-8 (each) |
+|-----------|------------|------------|---------------------|
+| Tuition Fee | 65,000 | 65,000 | 65,000 |
+| Development Fee | 10,000 | 10,000 | 10,000 |
+| Laboratory/Workshop Fee | 5,000 | 5,000 | 5,000 |
+| Library & Digital Resources | 3,000 | 3,000 | 3,000 |
+| Student Activity Fee | 2,000 | 2,000 | 2,000 |
+| Examination Fee | 2,500 | 2,500 | 2,500 |
+| **Total per Semester** | **87,500** | **87,500** | **87,500** |
+| **Annual Total** | **1,75,000** | | **1,75,000** |
+
+### B.Sc Programs (3 Years / 6 Semesters)
+| Component | Per Semester |
+|-----------|-------------|
+| Tuition Fee | 35,000 |
+| Laboratory Fee | 4,000 |
+| Library & Digital Resources | 2,000 |
+| Student Activity Fee | 1,500 |
+| Examination Fee | 2,000 |
+| **Total per Semester** | **44,500** |
+| **Annual Total** | **89,000** |
+
+### BBA Program (3 Years / 6 Semesters)
+| Component | Per Semester |
+|-----------|-------------|
+| Tuition Fee | 45,000 |
+| Library & Digital Resources | 2,000 |
+| Student Activity Fee | 2,000 |
+| Examination Fee | 2,000 |
+| Industry Visit Fee | 3,000 |
+| **Total per Semester** | **54,000** |
+| **Annual Total** | **1,08,000** |
+
+### BCA Program (3 Years / 6 Semesters)
+| Component | Per Semester |
+|-----------|-------------|
+| Tuition Fee | 40,000 |
+| Computer Lab Fee | 5,000 |
+| Library & Digital Resources | 2,000 |
+| Student Activity Fee | 1,500 |
+| Examination Fee | 2,000 |
+| **Total per Semester** | **50,500** |
+| **Annual Total** | **1,01,000** |
+
+## Postgraduate Programs - Annual Fees (INR)
+
+### M.Tech Programs (2 Years / 4 Semesters)
+| Component | Per Semester |
+|-----------|-------------|
+| Tuition Fee | 55,000 |
+| Research & Development Fee | 8,000 |
+| Laboratory Fee | 6,000 |
+| Library & Digital Resources | 3,000 |
+| Student Activity Fee | 2,000 |
+| Examination Fee | 2,500 |
+| **Total per Semester** | **76,500** |
+| **Annual Total** | **1,53,000** |
+
+### MBA Program (2 Years / 4 Semesters)
+| Component | Per Semester |
+|-----------|-------------|
+| Tuition Fee | 75,000 |
+| Case Study & Corporate Connect | 10,000 |
+| Library & Digital Resources | 3,000 |
+| Student Activity Fee | 3,000 |
+| Examination Fee | 3,000 |
+| **Total per Semester** | **94,000** |
+| **Annual Total** | **1,88,000** |
+
+### MCA Program (2 Years / 4 Semesters)
+| Component | Per Semester |
+|-----------|-------------|
+| Tuition Fee | 50,000 |
+| Computer Lab Fee | 6,000 |
+| Library & Digital Resources | 3,000 |
+| Student Activity Fee | 2,000 |
+| Examination Fee | 2,500 |
+| **Total per Semester** | **63,500** |
+| **Annual Total** | **1,27,000** |
+
+## Hostel Fees (Optional - Per Academic Year)
+| Room Type | Annual Fee | Mess Charges (Approx.) |
+|-----------|------------|------------------------|
+| Single Occupancy (AC) | 1,20,000 | 65,000 |
+| Double Occupancy (AC) | 90,000 | 65,000 |
+| Triple Occupancy (AC) | 75,000 | 65,000 |
+| Single Occupancy (Non-AC) | 70,000 | 65,000 |
+| Double Occupancy (Non-AC) | 55,000 | 65,000 |
+| Triple Occupancy (Non-AC) | 45,000 | 65,000 |
+
+*Note: Mess charges are approximate and may vary quarterly. One-time hostel security deposit: INR 10,000 (refundable).*
+
+## Additional Fees (One-Time at Admission)
+| Fee Type | Amount |
+|----------|--------|
+| Admission Fee | 10,000 |
+| University Registration | 2,000 |
+| Identity Card | 500 |
+| Alumni Association Fee | 1,000 |
+| **Total One-Time** | **13,500** |
+
+## Payment Schedule
+- **Odd Semester (July-Dec)**: Due by July 15
+- **Even Semester (Jan-Jun)**: Due by January 15
+- Late fee: INR 500 per week after due date
+- Fee can be paid in 2 installments per semester (with INR 1,000 processing fee)
+
+## Payment Modes
+- Online: Net Banking, UPI, Credit/Debit Card via college portal
+- Offline: Demand Draft in favor of "Sample College" payable at City
+- NEFT/RTGS to college bank account (details on portal)
+
+## Scholarships and Financial Aid
+
+### 1. Merit-Based Scholarships (Automatic - No Separate Application)
+
+| Scholarship | Eligibility | Benefit | Duration |
+|-------------|-------------|---------|----------|
+| **Chancellor's Excellence** | JEE 95%ile+ / Board 95%+ | 100% Tuition Fee Waiver | Full Program |
+| **Dean's Merit** | JEE 90-95%ile / Board 90-95% | 50% Tuition Fee Waiver | Full Program* |
+| **Merit Scholarship** | JEE 85-90%ile / Board 85-90% | 25% Tuition Fee Waiver | Full Program* |
+| *Subject to maintaining 8.0 CGPA each semester |
+
+### 2. Means-Cum-Merit Scholarships
+- **Family Income < INR 2.5 Lakh/year**: 50% Tuition Fee Waiver
+- **Family Income INR 2.5-5 Lakh/year**: 25% Tuition Fee Waiver
+- Requires income certificate, valid for one year, renewable
+
+### 3. Category-Based Scholarships (Government)
+- **Post-Matric Scholarship (SC/ST/OBC)**: As per state government norms
+- **EWS Scholarship**: Full tuition fee reimbursement (income < INR 8 Lakh)
+- **Minority Scholarship**: As per central government schemes
+- **PwD Scholarship**: Fee waiver + assistive devices allowance
+
+### 4. Special Scholarships
+- **Sports Excellence**: National/State level players - up to 100% fee waiver
+- **Cultural Excellence**: National level achievers - up to 50% fee waiver
+- **Single Girl Child**: 25% tuition fee waiver (limited seats)
+- **Defense Personnel Wards**: 25% tuition fee waiver
+- **COVID-Affected Families**: Special one-time grant (case by case)
+
+### 5. Corporate/Industry Sponsored
+- **TCS NQT Toppers**: Full scholarship for CSE/IT students
+- **Infosys Foundation**: Merit-cum-means for economically weaker
+- **HDFC Educational Crisis**: Emergency support for fee payment
+
+## Scholarship Application Process
+1. **Merit Scholarships**: Automatic based on admission scores
+2. **Means-Cum-Merit**: Apply online by July 31 with income certificate
+3. **Government Scholarships**: Apply through National Scholarship Portal (NSP)
+4. **Special Scholarships**: Separate application to Dean Student Welfare by August 15
+
+## Important Notes
+- Scholarships are credited as fee adjustment in subsequent semester
+- Students must maintain minimum 75% attendance and 6.5 CGPA
+- False information leads to cancellation and recovery of amount
+- Scholarship amount cannot exceed actual tuition fee
+
+## Fee Refund Policy (As per UGC/AICTE Norms)
+| Withdrawal Timeline | Refund Percentage |
+|---------------------|-------------------|
+| Before classes start | 100% (minus INR 1,000 processing) |
+| Within 15 days of start | 80% of tuition fee |
+| Within 30 days of start | 50% of tuition fee |
+| After 30 days | No refund |
+
+## Contact Accounts Office
+- **Phone**: +91-XXXX-XXXXXX
+- **Email**: accounts@samplecollege.edu.in
+- **Office Hours**: Monday-Friday 9:30 AM - 4:30 PM
+- **Portal**: fees.samplecollege.edu.in (for online payment and receipts)

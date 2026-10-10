@@ -1,0 +1,267 @@
+# Sample College - Placements and Contact Details
+
+## Training and Placement Cell (TPC)
+The Training and Placement Cell is the dedicated interface between the institute and industry. It operates year-round to ensure students are industry-ready and connected with top employers.
+
+### TPC Team
+| Role | Name | Contact |
+|------|------|---------|
+| **Dean TPC** | Dr. Amitabh Saxena | dean.tpc@samplecollege.edu.in, +91-XXXX-XXXXXX |
+| **Placement Officer (Engg)** | Ms. Priya Nair | placement.engg@samplecollege.edu.in, +91-XXXX-XXXXXX |
+| **Placement Officer (Mgmt)** | Mr. Rajesh Kumar | placement.mgmt@samplecollege.edu.in, +91-XXXX-XXXXXX |
+| **Industry Relations** | Ms. Kavya Sharma | industry@samplecollege.edu.in, +91-XXXX-XXXXXX |
+| **Training Coordinator** | Mr. Suresh Iyer | training@samplecollege.edu.in, +91-XXXX-XXXXXX |
+| **Admin Assistant** | Ms. Anita Verma | tpc.admin@samplecollege.edu.in, +91-XXXX-XXXXXX |
+
+### TPC Office Location
+- **Building**: Administrative Block, 2nd Floor
+- **Room**: A-201 to A-205
+- **Hours**: Monday-Friday 9:00 AM - 5:30 PM, Saturday 9:00 AM - 1:00 PM
+- **Walk-in Hours**: Tuesday & Thursday 2:00 PM - 4:00 PM (no appointment needed)
+
+---
+
+## Placement Statistics (2023-24 Batch)
+
+### Overall Highlights
+- **Total Eligible Students**: 1,240
+- **Students Placed**: 1,156 (93.2%)
+- **Total Offers**: 1,487 (1.2 offers/student average)
+- **Highest Package**: INR 52 LPA (International - Google, USA)
+- **Average Package**: INR 9.2 LPA
+- **Median Package**: INR 7.8 LPA
+- **Companies Visited**: 185+
+- **New Recruiters**: 42
+
+### Branch-wise Placement (B.Tech)
+
+| Branch | Eligible | Placed | % Placed | Highest (LPA) | Average (LPA) | Median (LPA) |
+|--------|----------|--------|----------|---------------|---------------|--------------|
+| CSE | 240 | 235 | 97.9% | 52.0 | 18.5 | 16.2 |
+| CSE (AI&ML) | 60 | 59 | 98.3% | 48.0 | 20.2 | 18.5 |
+| ECE | 115 | 108 | 93.9% | 28.0 | 9.8 | 8.5 |
+| ME | 110 | 98 | 89.1% | 18.0 | 6.5 | 5.8 |
+| EEE | 85 | 76 | 89.4% | 22.0 | 7.2 | 6.5 |
+| CE | 80 | 65 | 81.3% | 14.0 | 5.8 | 5.2 |
+
+### PG Programs Placement
+
+| Program | Eligible | Placed | % Placed | Highest (LPA) | Average (LPA) |
+|---------|----------|--------|----------|---------------|---------------|
+| M.Tech (All) | 90 | 78 | 86.7% | 24.0 | 11.5 |
+| MBA | 115 | 108 | 93.9% | 28.0 | 12.8 |
+| MCA | 55 | 52 | 94.5% | 22.0 | 10.5 |
+| M.Sc (DS) | 40 | 37 | 92.5% | 18.0 | 9.8 |
+
+### Sector-wise Distribution
+- **IT Services/Consulting**: 35% (TCS, Infosys, Wipro, HCL, Accenture, Capgemini)
+- **Product Companies**: 28% (Microsoft, Google, Amazon, Adobe, Oracle, VMware)
+- **FinTech/Banking**: 12% (JP Morgan, Goldman Sachs, Wells Fargo, HDFC, ICICI)
+- **Core Engineering**: 10% (L&T, Tata Motors, Bosch, Siemens, Schneider)
+- **E-commerce/Startup**: 8% (Flipkart, Swiggy, Zomato, Meesho, Unacademy)
+- **Analytics/Consulting**: 7% (Mu Sigma, Fractal, EXL, KPMG, Deloitte)
+
+### Top Recruiters (by number of offers)
+1. **TCS** - 85 offers (Ninja/Digital/Prime)
+2. **Infosys** - 72 offers (Power Programmer/SES/Digital Specialist)
+3. **Wipro** - 58 offers (Elite/ Turbo/ Project Engineer)
+4. **Accenture** - 52 offers (ASE/Advanced ASE)
+5. **Capgemini** - 45 offers (Analyst/Senior Analyst)
+6. **HCL Technologies** - 38 offers
+7. **Tech Mahindra** - 32 offers
+8. **Cognizant** - 28 offers
+9. **L&T Technology Services** - 25 offers
+10. **Persistent Systems** - 22 offers
+
+### Dream/Super Dream Companies (>20 LPA)
+- **Google** - 3 offers (52, 48, 45 LPA)
+- **Microsoft** - 5 offers (42, 40, 38, 36, 35 LPA)
+- **Amazon** - 8 offers (32-44 LPA)
+- **Adobe** - 4 offers (35-40 LPA)
+- **Oracle** - 6 offers (22-28 LPA)
+- **VMware** - 3 offers (25-30 LPA)
+- **Goldman Sachs** - 4 offers (30-38 LPA)
+- **JP Morgan** - 5 offers (25-32 LPA)
+- **Uber** - 2 offers (35, 38 LPA)
+- **Atlassian** - 2 offers (32, 36 LPA)
+
+---
+
+## Placement Process
+
+### Pre-Placement Preparation (Starts 3rd Year)
+1. **Aptitude Training**: Quantitative, Logical, Verbal (100+ hours)
+2. **Technical Training**: DSA, System Design, Domain-specific (120+ hours)
+3. **Coding Platforms**: LeetCode, CodeChef, HackerRank premium access
+4. **Mock Interviews**:
+   - Technical: By alumni/industry experts (4 rounds/student)
+   - HR: By corporate trainers (2 rounds/student)
+   - Group Discussion: Weekly sessions
+5. **Resume Building**: Workshops, reviews, ATS optimization
+6. **Soft Skills**: Communication, Presentation, Leadership, Email etiquette
+
+### Placement Season Timeline
+| Period | Activity |
+|--------|----------|
+| **May-Jun (Pre-final yr)** | Registration, Profile building, Skill assessment |
+| **Jul-Aug** | Intensive training, Mock drives, Company webinars |
+| **Sep-Nov** | **Main Placement Season** - Core companies, Dream companies |
+| **Dec-Jan** | **Secondary Season** - Mass recruiters, Remaining eligible |
+| **Feb-Mar** | **Final Phase** - Off-campus referrals, Pool drives |
+| **Apr-Jun** | Extended support for unplaced, Higher studies guidance |
+
+### Eligibility Criteria (Company-specific, typical minimums)
+- **CGPA**: 6.5-7.0 (varies by company)
+- **Active Backlogs**: Zero (most companies)
+- **Attendance**: Minimum 75%
+- **Branch**: As per job description
+- **Internship**: Preferred (mandatory for some)
+
+### Placement Policy Highlights
+- **One Student - One Offer** (until all eligible get at least one)
+- **Dream Company Policy**: Can apply to dream companies even after getting offer
+- **Core Company Policy**: Core branch students get priority for core companies
+- **Debarment**:
+  - Rejecting offer after acceptance: Debarred for season
+  - False information: Debarred + disciplinary action
+  - No-show for interview: Warning, then debarment
+
+---
+
+## Internship Program
+
+### Summer Internship (Mandatory for B.Tech - after 6th Sem)
+- **Duration**: 8-10 weeks (May-July)
+- **Stipend Range**: INR 10,000 - 1,00,000/month
+- **Conversion Rate**: 40% get PPO (Pre-Placement Offer)
+- **Top PPO Companies**: Microsoft, Google, Amazon, Goldman Sachs, JP Morgan, Adobe
+
+### Winter Internship (Optional)
+- **Duration**: 4-6 weeks (Dec-Jan)
+- **Virtual/Hybrid options available**
+- **Credits**: 2 credits (if approved by department)
+
+### Industry Internship Partners (200+)
+- **Research Internships**: IITs, IISc, ISRO, DRDO, BARC, International universities
+- **Corporate Internships**: All major IT, Core, Finance companies
+- **Startup Internships**: CIE incubator startups, AngelList partners
+
+---
+
+## Higher Studies Support
+
+### GATE/GRE/TOEFL/IELTS Preparation
+- **GATE Coaching**: In-house + external (Made Easy, ACE) - subsidized
+- **GRE/TOEFL**: Partnership with Manya, Jamboree - discounted
+- **Test Center**: College is official test center for TOEFL/GRE
+
+### Admissions 2023-24 (Higher Studies)
+- **MS (Abroad)**: 142 students (USA: 85, Germany: 22, Canada: 18, Others: 17)
+- **M.Tech (IITs/NITs)**: 68 students (via GATE)
+- **MBA (IIMs/Top B-Schools)**: 24 students (via CAT)
+- **Ph.D. Direct**: 12 students (Prime Minister Research Fellowship: 3)
+
+### Scholarship Support for Higher Studies
+- **PMRF**: 3 awarded in 2024
+- **DAAD (Germany)**: 5 students
+- **Erasmus Mundus**: 2 students
+- **Commonwealth Scholarship**: 1 student
+- **College Alumni Fund**: INR 50,000 - 1,00,000 for top admits
+
+---
+
+## Alumni Network
+- **Total Alumni**: 25,000+ (since 1998)
+- **Active Alumni Portal**: alumni.samplecollege.edu.in
+- **Chapters**: 15 domestic (major cities), 8 international (USA, UK, Canada, Germany, Singapore, UAE, Australia)
+- **Annual Alumni Meet**: First Saturday of February
+- **Mentorship Program**: 500+ alumni mentors for current students
+- **Notable Alumni**:
+  - VP Engineering at Google, Director at Microsoft, Founder of Unicorn startup, IAS officers, Faculty at IITs/IISc
+
+---
+
+## College Contact Details
+
+### Main Campus
+**Sample College**
+Knowledge Park, Sector 62
+City - 123456, State
+India
+
+**Phone**: +91-XXXX-XXXXXX (EPABX)
+**Fax**: +91-XXXX-XXXXXX
+**Email**: info@samplecollege.edu.in
+**Website**: www.samplecollege.edu.in
+
+### Key Administrative Contacts
+| Office | Contact Person | Email | Phone |
+|--------|---------------|-------|-------|
+| **Principal/Director** | Dr. R.K. Sharma | director@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| **Registrar** | Mr. Admin Officer | registrar@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| **Dean Academic** | Dr. S. Mehta | dean.academic@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| **Dean Student Welfare** | Dr. Priya Nair | dsw@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| **Dean R&D** | Dr. Vikram Patel | dean.rnd@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| **Controller of Exams** | Mr. Rajesh Verma | coe@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| **Finance Officer** | Ms. Finance Head | finance@samplecollege.edu.in | +91-XXXX-XXXXXX |
+
+### Student Support Services
+| Service | Contact | Email | Hours |
+|---------|---------|-------|-------|
+| **Student Helpdesk** | +91-XXXX-XXXXXX | helpdesk@samplecollege.edu.in | 24x7 (Chatbot) / 9AM-5PM (Call) |
+| **Anti-Ragging Cell** | 1800-180-5522 | antiragging@samplecollege.edu.in | 24x7 |
+| **Women's Cell** | +91-XXXX-XXXXXX | womencell@samplecollege.edu.in | 9AM-5PM |
+| **SC/ST/OBC Cell** | +91-XXXX-XXXXXX | scstcell@samplecollege.edu.in | 9AM-5PM |
+| **Counseling Center** | +91-XXXX-XXXXXX | counseling@samplecollege.edu.in | 9AM-5PM (Appt) |
+| **Medical Center** | +91-XXXX-XXXXXX | medical@samplecollege.edu.in | 24x7 |
+| **Library** | +91-XXXX-XXXXXX | library@samplecollege.edu.in | 8AM-10PM |
+| **Sports Complex** | +91-XXXX-XXXXXX | sports@samplecollege.edu.in | 5AM-9PM |
+
+### Transport
+- **College Buses**: 25 routes covering City + 30km radius
+- **Bus Tracking**: Real-time on college app
+- **Monthly Pass**: INR 2,500 (students), INR 3,000 (staff)
+- **Metro Connectivity**: College Metro Station (Blue Line) - 500m from gate
+
+### Important Web Portals
+| Portal | URL | Purpose |
+|--------|-----|---------|
+| **Student Portal** | student.samplecollege.edu.in | Attendance, Grades, Fees, Timetable |
+| **Admissions** | admissions.samplecollege.edu.in | Application, Status, Merit List |
+| **Placements** | placement.samplecollege.edu.in | Jobs, Internships, PPO, Training |
+| **Alumni** | alumni.samplecollege.edu.in | Network, Mentorship, Events |
+| **Library** | library.samplecollege.edu.in | Catalog, E-resources, Renewals |
+| **Grievance** | grievance.samplecollege.edu.in | Complaints, Feedback, RTI |
+| **Hostel** | hostel.samplecollege.edu.in | Allotment, Mess, Maintenance |
+| **Email** | mail.samplecollege.edu.in | Official email (student@samplecollege.edu.in) |
+
+### Social Media
+- **Website**: www.samplecollege.edu.in
+- **LinkedIn**: linkedin.com/school/sample-college
+- **Twitter/X**: @SampleCollege
+- **Facebook**: facebook.com/SampleCollegeOfficial
+- **Instagram**: @samplecollege_official
+- **YouTube**: youtube.com/@SampleCollege
+
+### Emergency Numbers (Campus)
+- **Security Control Room**: +91-XXXX-XXXXXX (24x7)
+- **Ambulance**: +91-XXXX-XXXXXX
+- **Fire Emergency**: 101 / +91-XXXX-XXXXXX
+- **Police**: 100 / Knowledge Park PS: +91-XXXX-XXXXXX
+- **Women Helpline**: 1091 / +91-XXXX-XXXXXX
+
+---
+
+## How to Reach Campus
+- **By Air**: Nearest Airport - City International Airport (25 km, 45 min)
+- **By Train**: Nearest Railway Station - City Junction (15 km, 30 min) / Metro Station (500m)
+- **By Road**: NH-48 passes through Knowledge Park. Regular buses from ISBT.
+- **Local**: Metro (Blue Line - College Station), Auto, Cab, College Bus
+
+---
+
+## RTI and Public Information
+- **Public Information Officer**: Mr. Admin Officer
+- **Email**: rti@samplecollege.edu.in
+- **Appellate Authority**: Registrar
+- **Proactive Disclosure**: www.samplecollege.edu.in/rti

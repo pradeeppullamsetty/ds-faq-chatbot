@@ -1,0 +1,159 @@
+# Sample College - Hostel Facilities and Rules
+
+## Hostel Overview
+Sample College provides on-campus hostel accommodation for approximately 3,000 students across 8 hostel blocks. Separate blocks for boys and girls with dedicated wardens and security.
+
+## Hostel Blocks
+
+### Boys Hostels (5 Blocks)
+| Block | Capacity | Room Types | Occupancy |
+|-------|----------|------------|-----------|
+| A-Block (Senior) | 400 | Single AC, Double AC | Final year UG, PG |
+| B-Block | 500 | Double AC, Triple AC | 2nd-3rd year UG |
+| C-Block | 600 | Triple Non-AC | 1st year UG |
+| D-Block (PG) | 300 | Single AC, Double AC | M.Tech, MBA, MCA |
+| E-Block (International) | 100 | Single AC, Double AC | International students |
+
+### Girls Hostels (3 Blocks)
+| Block | Capacity | Room Types | Occupancy |
+|-------|----------|------------|-----------|
+| G1-Block (Senior) | 350 | Single AC, Double AC | Final year UG, PG |
+| G2-Block | 450 | Double AC, Triple AC | 1st-3rd year UG |
+| G3-Block (PG) | 200 | Single AC, Double AC | All PG programs |
+
+## Room Allotment Policy
+- **Priority**: PG students > Final year UG > Senior years > First year
+- **Merit Basis**: Within same category, higher CGPA gets preference
+- **Application**: Online through student portal (opens June 15)
+- **Allotment**: First week of July (before classes start)
+- **Waiting List**: Maintained throughout the year
+
+## Hostel Fees (Per Academic Year - 2024-25)
+| Room Type | Rent | Mess Deposit | Maintenance | Total |
+|-----------|------|--------------|-------------|-------|
+| Single AC | 75,000 | 10,000 | 15,000 | 1,00,000 |
+| Double AC | 55,000 | 10,000 | 15,000 | 80,000 |
+| Triple AC | 45,000 | 10,000 | 12,000 | 67,000 |
+| Single Non-AC | 40,000 | 10,000 | 10,000 | 60,000 |
+| Double Non-AC | 30,000 | 10,000 | 10,000 | 50,000 |
+| Triple Non-AC | 25,000 | 10,000 | 8,000 | 43,000 |
+
+*Mess charges extra: ~INR 65,000/year (quarterly billing)*
+
+## Mess Facilities
+- **Two mess halls per hostel block** (veg/non-veg separate counters)
+- **Menu**: North Indian, South Indian, Chinese, Continental - weekly rotation
+- **Timings**:
+  - Breakfast: 7:30 AM - 9:30 AM
+  - Lunch: 12:30 PM - 2:30 PM
+  - Snacks: 5:00 PM - 6:30 PM
+  - Dinner: 7:30 PM - 9:30 PM
+- **Special Diets**: Jain, Vegan, Medical diets on request (submit to mess manager)
+- **Mess Card**: Biometric/QR based, prepaid wallet system
+- **Guest Meals**: Available at nominal charge (prior notice required)
+
+## Hostel Rules and Regulations
+
+### 1. Entry and Exit Timings
+| Category | Weekdays | Weekends/Holidays |
+|----------|----------|-------------------|
+| **Boys Hostels** | 6:00 AM - 10:00 PM | 6:00 AM - 11:00 PM |
+| **Girls Hostels** | 6:00 AM - 9:00 PM | 6:00 AM - 10:00 PM |
+| **Late Entry** | Up to 11:30 PM (with warden permission) | Up to 12:00 AM (with warden permission) |
+| **Emergency Late Entry** | Anytime (security guard + warden notification) | Anytime |
+
+- **Late Entry Register**: Must sign at security gate after permitted hours
+- **Night Out Permission**: Maximum 2 nights/month (parent consent required)
+- **Vacation Stay**: Allowed with prior written application (INR 200/day)
+
+### 2. Attendance and Roll Call
+- **Daily Roll Call**: 9:30 PM (Boys), 9:00 PM (Girls) - mandatory
+- **Absent without permission**: Fine INR 100 per instance
+- **Proxy attendance**: Strictly prohibited, leads to disciplinary action
+
+### 3. Room Rules
+- **Occupancy**: Only allotted students allowed. No unauthorized guests overnight
+- **Furniture**: College-provided (bed, study table, chair, cupboard). Damage = recovery cost
+- **Electrical Appliances**:
+  - Allowed: Laptop, phone charger, table lamp, hair dryer (max 1000W)
+  - **Prohibited**: Induction stove, heater, iron, refrigerator, AC (unless provided), microwave
+- **Room Lock**: Must lock when leaving. College not responsible for theft
+- **Cleanliness**: Daily cleaning by student. Weekly inspection by warden
+- **Decorations**: No nails/screws on walls. Use removable hooks only
+
+### 4. Visitor Policy
+- **Visiting Hours**:
+  - Weekdays: 4:00 PM - 7:00 PM
+  - Weekends: 10:00 AM - 7:00 PM
+- **Visitor Register**: Mandatory entry at security gate with ID proof
+- **Girls Hostel**: Male visitors only in common room (parents/guardians to rooms)
+- **Boys Hostel**: Female visitors only in common room
+- **Overnight Guests**: Not permitted under any circumstances
+
+### 5. Discipline and Conduct
+- **Ragging**: Zero tolerance. Immediate expulsion + police complaint (UGC Regulations 2009)
+- **Alcohol/Drugs/Smoking**: Strictly prohibited. Expulsion + legal action
+- **Noise**: Silence hours 10:00 PM - 7:00 AM. No loud music/speakers
+- **Common Areas**: TV room, reading room, gym - maintain decorum
+- **Corridor/balcony**: No drying clothes, no loitering after 10 PM
+
+### 6. Leave and Absence
+- **Local Guardian**: Must be registered (within 50km) for emergency contact
+- **Short Leave (same day)**: Application to warden 2 hours prior
+- **Long Leave (overnight)**: Parent/guardian written request + local guardian confirmation
+- **Medical Leave**: Medical certificate from college doctor/hospital required
+- **Unauthorized Absence > 3 days**: Parents informed, disciplinary action
+
+### 7. Maintenance and Complaints
+- **Complaint Register**: At each block office / online portal
+- **Response Time**:
+  - Electrical/Plumbing: 24 hours
+  - Carpentry/Masonry: 48 hours
+  - AC/Water heater: 72 hours (outsourced)
+- **Emergency**: Call warden/security directly (24x7 numbers displayed)
+
+### 8. Vacation and Re-admission
+- **Summer Vacation**: Hostels close (except PG research scholars with permission)
+- **Winter Break**: Limited rooms available (apply by Nov 30)
+- **Re-admission**: Automatic for continuing students (fee payment by June 30)
+- **Vacating Room**: Must vacate within 24 hours of last exam. Late = INR 500/day
+
+## Facilities Available
+- **WiFi**: 24x7 high-speed (100 Mbps per block)
+- **Laundry**: Coin-operated machines (INR 30/load)
+- **Gym**: Basic equipment in each block (6 AM - 10 PM)
+- **Common Room**: TV, indoor games (TT, carrom, chess)
+- **Reading Room**: 24x7 with AC and charging points
+- **Solar Water Heaters**: In all blocks
+- **RO Water Purifiers**: On every floor
+- **Medical Room**: First aid + visiting doctor (Mon/Wed/Fri 4-6 PM)
+- **Ambulance**: 24x7 on campus
+
+## Warden and Staff Contacts
+| Hostel | Warden | Contact |
+|--------|--------|---------|
+| A-Block (Boys) | Dr. Rajesh Kumar | +91-XXXX-XXXXXX |
+| B-Block (Boys) | Prof. Amit Singh | +91-XXXX-XXXXXX |
+| C-Block (Boys) | Dr. Sanjay Verma | +91-XXXX-XXXXXX |
+| D-Block (PG Boys) | Dr. Vikram Patel | +91-XXXX-XXXXXX |
+| G1-Block (Girls) | Dr. Priya Sharma | +91-XXXX-XXXXXX |
+| G2-Block (Girls) | Prof. Neha Gupta | +91-XXXX-XXXXXX |
+| G3-Block (PG Girls) | Dr. Anita Rao | +91-XXXX-XXXXXX |
+| **Chief Warden (Boys)** | **Prof. R.K. Sharma** | **+91-XXXX-XXXXXX** |
+| **Chief Warden (Girls)** | **Dr. S. Mehta** | **+91-XXXX-XXXXXX** |
+| **Hostel Office** | **Mr. Admin Officer** | **+91-XXXX-XXXXXX** |
+
+## Emergency Contacts
+- **Campus Security**: +91-XXXX-XXXXXX (24x7)
+- **College Ambulance**: +91-XXXX-XXXXXX
+- **Nearest Hospital**: City General Hospital - 3 km
+- **Police Station**: Knowledge Park PS - 2 km
+- **Anti-Ragging Helpline**: 1800-180-5522 (National)
+
+## Grievance Redressal
+1. **Level 1**: Hostel Warden (verbal/written complaint)
+2. **Level 2**: Chief Warden (if not resolved in 3 days)
+3. **Level 3**: Dean Student Welfare (if not resolved in 7 days)
+4. **Level 4**: Grievance Redressal Committee (final appeal)
+
+Online grievance portal: grievance.samplecollege.edu.in/hostel

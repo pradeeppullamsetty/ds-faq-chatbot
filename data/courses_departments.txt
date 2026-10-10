@@ -1,0 +1,322 @@
+# Sample College - Courses and Departments
+
+## Academic Structure
+Sample College comprises 8 academic departments offering 22 programs across Engineering, Sciences, Management, and Computer Applications. All programs are approved by AICTE/UGC and affiliated with Sample University.
+
+## Department of Computer Science and Engineering (CSE)
+
+### Programs Offered
+1. **B.Tech in Computer Science and Engineering** (4 Years, 180 Seats)
+   - Specializations (from 3rd year): AI & ML, Data Science, Cybersecurity, Cloud Computing, Full Stack Development
+   - Curriculum Highlights:
+     - Core: Programming, Data Structures, Algorithms, OS, DBMS, CN, SE, Compiler Design
+     - Electives: Deep Learning, Blockchain, IoT, Quantum Computing, AR/VR
+     - Industry Projects: 2 major projects (6th & 8th semester)
+     - Internships: Mandatory 2-month summer internship after 6th semester
+
+2. **B.Tech CSE (Artificial Intelligence & Machine Learning)** (4 Years, 60 Seats)
+   - Focused curriculum on AI/ML from 1st year
+   - Specialized labs: NLP, Computer Vision, Robotics
+   - Industry partners: NVIDIA, Google Research, Microsoft Research
+
+3. **M.Tech in Computer Science and Engineering** (2 Years, 30 Seats)
+   - Specializations: AI, Data Science, Cybersecurity, Software Engineering
+   - Research-oriented with thesis in 2nd year
+   - GATE qualified preferred
+
+4. **Ph.D. in Computer Science** (Full-time/Part-time)
+   - Research areas: ML, NLP, Computer Vision, Security, Distributed Systems
+
+### Key Facilities
+- **High-Performance Computing Lab**: 50 GPU workstations (NVIDIA RTX A6000)
+- **AI Research Lab**: Dedicated server cluster for deep learning
+- **Cybersecurity Range**: Isolated network for ethical hacking practice
+- **IoT & Embedded Systems Lab**: Raspberry Pi, Arduino, sensor kits
+- **Industry Collaboration**: Microsoft AI Lab, AWS Educate, Google Cloud Credits
+
+### Faculty Strength
+- Professors: 8
+- Associate Professors: 12
+- Assistant Professors: 25
+- **Total**: 45 (PhD: 38, Pursuing: 7)
+
+---
+
+## Department of Electronics and Communication Engineering (ECE)
+
+### Programs Offered
+1. **B.Tech in Electronics and Communication Engineering** (4 Years, 120 Seats)
+   - Specializations: VLSI Design, Embedded Systems, Communication Systems, Signal Processing
+   - Core: Analog/Digital Electronics, Signals & Systems, Microcontrollers, VLSI, Wireless Comm
+   - Labs: VLSI Design (Cadence tools), DSP, Communication, Microcontroller, PCB Design
+
+2. **M.Tech in VLSI Design and Embedded Systems** (2 Years, 24 Seats)
+   - Focus on chip design, FPGA, ASIC flow
+   - Industry tie-ups: Intel, Texas Instruments, Qualcomm
+
+### Key Facilities
+- **VLSI Design Center**: Cadence, Synopsys, Mentor Graphics tools
+- **Communication Lab**: Spectrum analyzers, vector network analyzers
+- **Embedded Systems Lab**: ARM, FPGA development boards
+- **Anechoic Chamber**: For antenna testing (shared with Physics)
+
+### Faculty Strength
+- Professors: 6
+- Associate Professors: 10
+- Assistant Professors: 18
+- **Total**: 34 (PhD: 28, Pursuing: 6)
+
+---
+
+## Department of Mechanical Engineering (ME)
+
+### Programs Offered
+1. **B.Tech in Mechanical Engineering** (4 Years, 120 Seats)
+   - Specializations: Manufacturing, Design, Thermal, Robotics & Automation
+   - Core: Thermodynamics, Fluid Mechanics, Machine Design, Manufacturing, CAD/CAM
+   - Industry 4.0 focus: Additive Manufacturing, Digital Twin, Smart Factory
+
+2. **M.Tech in Manufacturing Engineering** (2 Years, 18 Seats)
+   - Advanced Manufacturing, CNC, Robotics, Automation
+
+### Key Facilities
+- **Advanced Manufacturing Lab**: CNC machines, 3D printers (metal/polymer), Laser cutting
+- **Thermal Engineering Lab**: IC Engine test rig, refrigeration/AC test rigs
+- **Robotics & Automation Lab**: Industrial robots (ABB, KUKA), PLC trainers
+- **Materials Testing Lab**: UTM, hardness, impact, fatigue testing
+- **CAD/CAM Center**: 100 seats - CATIA, SolidWorks, ANSYS, Creo
+
+### Faculty Strength
+- Professors: 5
+- Associate Professors: 8
+- Assistant Professors: 15
+- **Total**: 28 (PhD: 22, Pursuing: 6)
+
+---
+
+## Department of Electrical and Electronics Engineering (EEE)
+
+### Programs Offered
+1. **B.Tech in Electrical and Electronics Engineering** (4 Years, 90 Seats)
+   - Specializations: Power Systems, Control Systems, Power Electronics, Renewable Energy
+   - Core: Circuit Theory, Machines, Power Systems, Control, Power Electronics, Drives
+   - Green Energy focus: Solar, Wind, Smart Grid, EV Technology
+
+2. **M.Tech in Power Systems** (2 Years, 18 Seats)
+   - Smart Grid, Power Quality, Renewable Integration, HVDC/FACTS
+
+### Key Facilities
+- **Power Systems Lab**: Relay testing, protection simulation (ETAP, PSCAD)
+- **Power Electronics Lab**: Converters, inverters, motor drives, solar PV emulator
+- **Control Systems Lab**: PLC, SCADA, process control trainers
+- **Renewable Energy Lab**: 50kW solar PV, wind turbine simulator, battery storage
+- **EV Charging Station**: 4 chargers (CCS2, Type 2) for research
+
+### Faculty Strength
+- Professors: 4
+- Associate Professors: 7
+- Assistant Professors: 12
+- **Total**: 23 (PhD: 19, Pursuing: 4)
+
+---
+
+## Department of Civil Engineering (CE)
+
+### Programs Offered
+1. **B.Tech in Civil Engineering** (4 Years, 90 Seats)
+   - Specializations: Structural, Geotechnical, Transportation, Environmental, Construction Management
+   - Core: Building Materials, Structural Analysis, Geotech, Transportation, Water Resources
+   - Software: STAAD.Pro, ETABS, SAP2000, Primavera, AutoCAD Civil 3D
+
+2. **M.Tech in Structural Engineering** (2 Years, 18 Seats)
+   - Advanced Structural Design, Earthquake Engineering, FEA
+
+### Key Facilities
+- **Structural Engineering Lab**: UTM (1000kN), NDT equipment, shake table
+- **Geotechnical Lab**: Triaxial, CBR, consolidation, permeability apparatus
+- **Concrete Lab**: Mix design, NDT, corrosion analysis
+- **Surveying Lab**: Total stations, GPS, drone surveying
+- **Environmental Lab**: Water/wastewater analysis, air quality monitoring
+
+### Faculty Strength
+- Professors: 4
+- Associate Professors: 6
+- Assistant Professors: 12
+- **Total**: 22 (PhD: 18, Pursuing: 4)
+
+---
+
+## Department of Applied Sciences and Humanities (ASH)
+
+### Role
+Provides foundational courses to all 1st year B.Tech students and offers standalone programs.
+
+### Programs Offered
+1. **B.Sc (Hons) Physics** (3 Years, 60 Seats)
+2. **B.Sc (Hons) Chemistry** (3 Years, 60 Seats)
+3. **B.Sc (Hons) Mathematics** (3 Years, 60 Seats)
+4. **B.Sc (Hons) Data Science** (3 Years, 60 Seats) - New from 2024
+
+### 1st Year B.Tech Common Courses
+- Engineering Mathematics I & II
+- Engineering Physics / Chemistry
+- Communication Skills / Professional Ethics
+- Environmental Studies
+- Constitution of India / Essence of Indian Traditional Knowledge
+- Workshop Practice / Engineering Graphics
+- Programming for Problem Solving (Python/C)
+
+### Key Facilities
+- **Physics Research Lab**: Optics, lasers, material characterization
+- **Chemistry Research Lab**: Synthesis, analytical instruments (UV-Vis, FTIR, GC)
+- **Mathematics Computing Lab**: MATLAB, Mathematica, Python/R for data science
+- **Language Lab**: 60 seats - English communication, soft skills
+
+### Faculty Strength
+- Professors: 6
+- Associate Professors: 10
+- Assistant Professors: 22
+- **Total**: 38 (PhD: 34, Pursuing: 4)
+
+---
+
+## Department of Management Studies (DoMS)
+
+### Programs Offered
+1. **MBA (Master of Business Administration)** (2 Years, 120 Seats)
+   - Specializations (Dual Major): Marketing, Finance, HR, Operations, Business Analytics, IT Management
+   - Curriculum: Case-based (Harvard/Ivey), Live projects, Rural immersion, International exposure
+   - Accreditations: NBA, AICTE approved
+
+2. **BBA (Bachelor of Business Administration)** (3 Years, 120 Seats)
+   - Foundation in management, entrepreneurship focus
+   - Industry certifications: Digital Marketing, Financial Modeling, Six Sigma
+
+3. **Ph.D. in Management** (Full-time/Part-time)
+   - Research: Strategy, Marketing, Finance, OB/HR, Operations
+
+### Key Facilities
+- **Business Simulation Lab**: MarkStrat, Capstone, ERP simulation (SAP)
+- **Finance Lab**: Bloomberg Terminals (4), NSE Smart Simulation
+- **Case Study Room**: Harvard-style tiered seating
+- **Incubation Center**: Co-working, mentoring, seed funding (up to INR 10L)
+
+### Faculty Strength
+- Professors: 4
+- Associate Professors: 6
+- Assistant Professors: 14
+- **Total**: 24 (PhD: 20, Pursuing: 4)
+- **Visiting Faculty**: 15+ from industry (CXOs, consultants)
+
+---
+
+## Department of Computer Applications (DCA)
+
+### Programs Offered
+1. **MCA (Master of Computer Applications)** (2 Years, 60 Seats)
+   - Focus: Software Development, Cloud, DevOps, AI Applications
+   - Curriculum aligned with NEP 2020 - Industry projects each semester
+   - Certifications: AWS, Azure, Google Cloud, Kubernetes
+
+2. **BCA (Bachelor of Computer Applications)** (3 Years, 120 Seats)
+   - Strong programming foundation, web/mobile development
+   - Final year capstone project with industry mentor
+
+### Key Facilities
+- **Software Development Lab**: 120 seats - Full stack dev environment
+- **Cloud Computing Lab**: AWS/Azure/GCP credits for students
+- **Mobile App Lab**: iOS/Android development, testing devices
+- **DevOps Lab**: CI/CD pipelines, container orchestration
+
+### Faculty Strength
+- Professors: 3
+- Associate Professors: 5
+- Assistant Professors: 12
+- **Total**: 20 (PhD: 16, Pursuing: 4)
+
+---
+
+## Interdisciplinary Centers
+
+### 1. Center for Artificial Intelligence Research (CAIR)
+- **Focus**: Fundamental and applied AI research
+- **Funding**: DST, SERB, Industry grants (INR 5+ Crores active)
+- **Publications**: 50+ papers/year in top venues (NeurIPS, ICML, CVPR)
+- **Open to**: All departments, PhD scholars, UG research projects
+
+### 2. Center for Innovation and Entrepreneurship (CIE)
+- **Incubator**: 50 startups, 10 graduated, INR 50Cr+ valuation
+- **Funding**: MSME, Startup India, Angel networks
+- **Events**: Hackathons, Pitch days, Bootcamps (monthly)
+- **Open to**: All students, alumni, faculty
+
+### 3. Center for Sustainable Technologies (CST)
+- **Focus**: Green energy, waste management, water treatment
+- **Projects**: Smart village, solar cold storage, plastic recycling
+- **Collaborations**: Govt agencies, NGOs, International universities
+
+---
+
+## Academic Calendar (Typical)
+| Event | Odd Semester | Even Semester |
+|-------|--------------|---------------|
+| Classes Begin | August 1 | January 15 |
+| Mid-Semester Exams | October | March |
+| Diwali/Sem Break | Late Oct/Early Nov | - |
+| End-Semester Exams | December | May |
+| Semester Break | Dec 25 - Jan 10 | May 20 - July 31 |
+| Results | Mid-January | Mid-June |
+| Supplementary Exams | February | July |
+
+---
+
+## Credit System and Grading
+- **Choice Based Credit System (CBCS)** implemented
+- **Semester Credits**: 20-24 (UG), 18-22 (PG)
+- **Total Credits for Degree**:
+  - B.Tech: 160-170
+  - B.Sc/BBA/BCA: 120-130
+  - M.Tech: 80-88
+  - MBA/MCA: 100-110
+- **Grading**: 10-point CGPA (O=10, A+=9, A=8, B+=7, B=6, C=5, P=4, F=0)
+- **Passing**: Minimum 4.0 CGPA, no F grades
+
+---
+
+## Industry-Academia Partnerships
+- **Tier 1 Partners**: Microsoft, Google, Amazon, NVIDIA, Intel, Texas Instruments
+- **Tier 2 Partners**: TCS, Infosys, Wipro, HCL, Tech Mahindra, L&T
+- **MoUs**: 50+ active MoUs for internships, projects, faculty exchange, joint research
+- **Centers of Excellence**:
+  - Microsoft AI CoE
+  - AWS Cloud CoE
+  - NVIDIA Deep Learning CoE
+  - Siemens Digital Industries CoE
+  - Bosch Rexroth Automation CoE
+
+---
+
+## Accreditation and Rankings
+- **NAAC**: A++ Grade (CGPA 3.72/4.00)
+- **NBA**: All eligible B.Tech programs accredited (Tier 1)
+- **NIRF 2024**:
+  - Engineering: Rank 45
+  - Overall: Rank 78
+  - Management: Rank 52
+- **QS Asia 2024**: Rank 180-200 band
+- **Times Higher Education**: 600-800 band globally
+
+---
+
+## Contact Information
+| Department | Head of Department | Email | Phone |
+|------------|-------------------|-------|-------|
+| CSE | Dr. Arun Kumar | hod.cse@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| ECE | Dr. Sunita Reddy | hod.ece@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| ME | Prof. Rajesh Gupta | hod.me@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| EEE | Dr. Vikram Singh | hod.eee@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| CE | Prof. Anita Desai | hod.ce@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| ASH | Dr. Priya Nair | hod.ash@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| DoMS | Dr. Rajiv Malhotra | hod.doms@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| DCA | Prof. Suresh Iyer | hod.dca@samplecollege.edu.in | +91-XXXX-XXXXXX |
+| **Dean Academic** | **Dr. R.K. Sharma** | **dean.academic@samplecollege.edu.in** | **+91-XXXX-XXXXXX** |

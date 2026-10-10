@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DS University - FAQ Assistant (Preview)</title>
+    <style>
+      :root{
+        color-scheme: light;
+        --bg0:#0b1220;
+        --bg1:#0f172a;
+        --card:rgba(255,255,255,.06);
+        --card2:rgba(255,255,255,.08);
+        --text:rgba(255,255,255,.92);
+        --muted:rgba(255,255,255,.68);
+        --line:rgba(255,255,255,.12);
+        --accent:#38bdf8;
+        --accent2:#8b5cf6;
+        --shadow:0 18px 50px rgba(0,0,0,.45);
+      }
+      html,body{height:100%}
+      body{
+        margin:0;
+        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+        background:
+          radial-gradient(1200px 500px at 20% -10%, rgba(139,92,246,.35), transparent),
+          radial-gradient(1000px 450px at 85% 0%, rgba(56,189,248,.35), transparent),
+          linear-gradient(180deg, var(--bg1), var(--bg0));
+        color:var(--text);
+      }
+      .page{min-height:100vh;display:flex;flex-direction:column}
+      .hero{padding:38px 18px 18px}
+      .heroCard{
+        max-width:980px;margin:0 auto;
+        background:linear-gradient(135deg, rgba(56,189,248,.12), rgba(139,92,246,.10));
+        border:1px solid rgba(255,255,255,.12);
+        border-radius:22px;
+        padding:22px 22px 18px;
+        box-shadow:var(--shadow);
+        backdrop-filter:blur(12px);
+      }
+      .badge{display:inline-block;padding:6px 12px;border-radius:999px;font-weight:700;font-size:12px;letter-spacing:.04em;
+        background:rgba(56,189,248,.16);border:1px solid rgba(56,189,248,.35);color:rgba(255,255,255,.95);
+      }
+      .heroCard h1{margin:12px 0 6px;font-size:34px;line-height:1.12}
+      .heroCard p{margin:0 0 16px;color:var(--muted);max-width:62ch}
+      .field{margin-top:12px}
+      .field label{display:block;font-size:13px;color:var(--muted);margin-bottom:8px}
+      .field input{
+        width:100%;padding:12px 12px;border-radius:14px;border:1px solid var(--line);
+        background:rgba(255,255,255,.06);color:var(--text);outline:none;
+      }
+      .field input::placeholder{color:rgba(255,255,255,.45)}
+      .hint{margin-top:8px;color:rgba(255,255,255,.62);font-size:12.5px}
+      .note{margin-top:14px;color:rgba(255,255,255,.58);font-size:12.5px}
+      .note code{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;font-size:12px}
+      .embedWrap{max-width:980px;width:100%;margin:0 auto;padding:0 18px 24px}
+      .embedHeader{display:flex;align-items:center;gap:10px;padding:14px 16px;border-radius:18px 18px 12px 12px;
+        background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.10);backdrop-filter:blur(10px);
+      }
+      .dot{width:10px;height:10px;border-radius:999px;background:linear-gradient(135deg,var(--accent),var(--accent2));box-shadow:0 0 0 4px rgba(56,189,248,.14)}
+      .embedTitle{font-weight:800;font-size:14px}
+      .embedSub{color:var(--muted);font-size:12.5px}
+      .iframeShell{
+        border-radius:0 0 18px 18px;border:1px solid rgba(255,255,255,.10);border-top:none;
+        background:rgba(255,255,255,.04);overflow:hidden;min-height:620px;
+      }
+      iframe{width:100%;height:690px;border:0;background:rgba(0,0,0,.2)}
+      .footer{margin-top:auto;padding:18px;color:rgba(255,255,255,.60);text-align:center;font-size:12.5px}
+      @media (max-width:640px){.heroCard h1{font-size:26px}iframe{height:620px}}
+      .small{font-size:12px;color:rgba(255,255,255,.62)}
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <div class="hero">
+        <div class="heroCard">
+          <div class="badge">AI-Powered</div>
+          <h1>DS University FAQ Assistant</h1>
+          <p>Ask admissions, fees, hostel rules, courses, and placements questions. This preview page embeds the live chatbot when your Streamlit URL is ready.</p>
+
+          <div class="field">
+            <label>Streamlit iframe URL</label>
+            <input id="iframeUrl" type="text" value="https://YOUR-APP.streamlit.app/?embed=true" placeholder="https://your-streamlit-app-url" />
+            <div class="hint" id="helpText">Replace the placeholder URL above with your Streamlit Community Cloud link, then press “Load Chatbot”.</div>
+          </div>
+
+          <div class="note">
+            Tip: If the embed shows blank, your Streamlit host may block embedding (X-Frame-Options/CSP). In that case we’ll use a different approach.
+          </div>
+
+          <div style="margin-top:14px">
+            <button onclick="loadIframe()" style="cursor:pointer;border:none;border-radius:14px;padding:12px 16px;font-weight:700;background:linear-gradient(90deg,var(--accent2),var(--accent));color:#06101e">
+              Load Chatbot
+            </button>
+          </div>
+          <div class="small" style="margin-top:10px">This is just UI preview—chat works only after Streamlit is deployed.</div>
+        </div>
+      </div>
+
+      <div class="embedWrap">
+        <div class="embedHeader">
+          <div class="dot"></div>
+          <div>
+            <div class="embedTitle">Live Chatbot</div>
+            <div class="embedSub">Embedded from Streamlit</div>
+          </div>
+        </div>
+
+        <div class="iframeShell">
+          <iframe id="chatFrame" title="DS University FAQ Chatbot" src="https://YOUR-APP.streamlit.app/?embed=true" loading="lazy"></iframe>
+        </div>
+      </div>
+
+      <div class="footer">Built for your final-year project demo.</div>
+    </div>
+
+    <script>
+      function loadIframe(){
+        const v = document.getElementById('iframeUrl').value.trim();
+        const frame = document.getElementById('chatFrame');
+        frame.src = v;
+        document.getElementById('helpText').textContent = 'Loading your Streamlit chatbot URL… If you see a blank page, embedding may be blocked by the host.';
+      }
+    </script>
+  </body>
+</html>

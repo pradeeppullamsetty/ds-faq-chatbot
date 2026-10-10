@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the eligibility for B.Tech programs?",
+    "expected_keywords": ["10+2", "Physics", "Chemistry", "Mathematics", "60%"],
+    "in_docs": true,
+    "category": "admissions"
+  },
+  {
+    "question": "How much is the total fee for B.Tech per semester?",
+    "expected_keywords": ["87,500"],
+    "in_docs": true,
+    "category": "fees"
+  },
+  {
+    "question": "What is the scholarship percentage for students with family income less than 2.5 lakhs?",
+    "expected_keywords": ["50%", "Waiver"],
+    "in_docs": true,
+    "category": "fees"
+  },
+  {
+    "question": "Are induction stoves allowed in the hostel rooms?",
+    "expected_keywords": ["Prohibited", "not allowed"],
+    "in_docs": true,
+    "category": "hostel"
+  },
+  {
+    "question": "What is the highest placement package offered?",
+    "expected_keywords": ["52 LPA", "Google", "USA"],
+    "in_docs": true,
+    "category": "placements"
+  },
+  {
+    "question": "Which companies are considered Dream/Super Dream companies?",
+    "expected_keywords": ["Google", "Microsoft", "Amazon", "Adobe", "Oracle", "Goldman Sachs"],
+    "in_docs": true,
+    "category": "placements"
+  },
+  {
+    "question": "What are the specializations offered in MBA?",
+    "expected_keywords": ["Marketing", "Finance", "HR", "Operations", "Business Analytics", "IT Management"],
+    "in_docs": true,
+    "category": "courses"
+  },
+  {
+    "question": "What is the phone number for the IT Helpdesk?",
+    "expected_keywords": ["I don't have that information", "contact the college office"],
+    "in_docs": false,
+    "category": "fallback"
+  },
+  {
+    "question": "Does the college offer B.Arch?",
+    "expected_keywords": ["I don't have that information", "contact the college office"],
+    "in_docs": false,
+    "category": "fallback"
+  },
+  {
+    "question": "What is the cutoff rank for state CET admission?",
+    "expected_keywords": ["I don't have that information", "contact the college office"],
+    "in_docs": false,
+    "category": "fallback"
+  },
+  {
+    "question": "Can I bring my own air conditioner to the hostel?",
+    "expected_keywords": ["Prohibited", "AC", "unless provided"],
+    "in_docs": true,
+    "category": "hostel"
+  },
+  {
+    "question": "What happens if I reject a placement offer after accepting it?",
+    "expected_keywords": ["Debarred"],
+    "in_docs": true,
+    "category": "placements"
+  },
+  {
+    "question": "How many computers are there in the High-Performance Computing Lab?",
+    "expected_keywords": ["50 GPU workstations", "RTX A6000"],
+    "in_docs": true,
+    "category": "courses"
+  },
+  {
+    "question": "What are the rules for late entry into the boys hostel?",
+    "expected_keywords": ["11:30 PM", "warden permission", "Late Entry Register"],
+    "in_docs": true,
+    "category": "hostel"
+  },
+  {
+    "question": "When does the application process for PG programs open?",
+    "expected_keywords": ["March 1"],
+    "in_docs": true,
+    "category": "admissions"
+  },
+  {
+    "question": "Does the college provide student loans?",
+    "expected_keywords": ["I don't have that information", "contact the college office"],
+    "in_docs": false,
+    "category": "fallback"
+  },
+  {
+    "question": "Is there a washing machine facility in the hostel?",
+    "expected_keywords": ["Laundry", "Coin-operated", "INR 30/load"],
+    "in_docs": true,
+    "category": "hostel"
+  },
+  {
+    "question": "How much is the alumni association fee?",
+    "expected_keywords": ["1,000"],
+    "in_docs": true,
+    "category": "fees"
+  },
+  {
+    "question": "What is the total number of professors in the Computer Science department?",
+    "expected_keywords": ["8", "Professors"],
+    "in_docs": true,
+    "category": "courses"
+  },
+  {
+    "question": "Can MCA lateral entry students join the first year?",
+    "expected_keywords": ["2nd year", "admitted to 2nd year"],
+    "in_docs": true,
+    "category": "admissions"
+  }
+]
