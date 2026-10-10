@@ -36,7 +36,7 @@ from config import (
 )
 
 FALLBACK_MESSAGE = "I don't have that information. Please contact the college office."
-GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
+GROQ_MODEL = os.getenv("GROQ_MODEL") or "openai/gpt-oss-20b"
 
 _embedding_model = None
 _vector_store = None
