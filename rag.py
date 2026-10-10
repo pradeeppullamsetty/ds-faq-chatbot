@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""RAG core for the College FAQ Chatbot (OpenAI LLM + local MiniLM embeddings + Chroma/Qdrant)."""
+"""RAG core for the College FAQ Chatbot (Groq LLM + local MiniLM embeddings + Chroma/Qdrant)."""
 import os
 import time
 import hashlib
@@ -25,10 +25,10 @@ except ImportError:
     QDRANT_AVAILABLE = False
 
 try:
-    from langchain_openai import ChatOpenAI
-    OPENAI_AVAILABLE = True
+    from langchain_groq import ChatGroq
+    GROQ_AVAILABLE = True
 except ImportError:
-    OPENAI_AVAILABLE = False
+    GROQ_AVAILABLE = False
 
 from config import (
     CHUNK_SIZE, CHUNK_OVERLAP, EMBEDDING_MODEL,
@@ -36,7 +36,7 @@ from config import (
 )
 
 FALLBACK_MESSAGE = "I don't have that information. Please contact the college office."
-OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
 
 _embedding_model = None
 _vector_store = None
@@ -180,12 +180,12 @@ def format_sources(retrieved_chunks: List[Document]) -> str:
 
 
 def _get_llm():
-    if not OPENAI_AVAILABLE:
-        raise RuntimeError("langchain-openai is not installed.")
-    api_key = os.getenv("OPENAI_API_KEY", "")
+    if not GROQ_AVAILABLE:
+        raise RuntimeError("langchain-groq is not installed.")
+    api_key = os.getenv("GROQ_API_KEY", "")
     if not api_key:
-        raise RuntimeError("OPENAI_API_KEY is not set. Add it in Streamlit Cloud -> Settings -> Secrets.")
-    return ChatOpenAI(model=OPENAI_MODEL, api_key=api_key, temperature=0)
+        raise RuntimeError("GROQ_API_KEY is not set. Add it in Streamlit Cloud -> Settings -> Secrets.")
+    return ChatGroq(model=GROQ_MODEL, api_key=api_key, temperature=0)
 
 
 def process_query(query: str, chunks: List[Document], vector_store, language: str = "en") -> Dict[str, Any]:

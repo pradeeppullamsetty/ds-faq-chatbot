@@ -109,16 +109,16 @@ with st.sidebar:
     st.session_state.language = "en" if lang_choice == "English" else "ta"
 
     # API Key check
-    openai_api_key = os.getenv("OPENAI_API_KEY", "")
-    if not openai_api_key:
+    groq_api_key = os.getenv("GROQ_API_KEY", "")
+    if not groq_api_key:
         try:
-            openai_api_key = st.secrets.get("OPENAI_API_KEY", "")
+            groq_api_key = st.secrets.get("GROQ_API_KEY", "")
         except Exception:
-            openai_api_key = ""
-    if openai_api_key:
-        os.environ["OPENAI_API_KEY"] = openai_api_key
+            groq_api_key = ""
+    if groq_api_key:
+        os.environ["GROQ_API_KEY"] = groq_api_key
     else:
-        st.warning("⚠️ OPENAI_API_KEY not found in .env or Streamlit Secrets.")
+        st.warning("⚠️ GROQ_API_KEY not found in .env or Streamlit Secrets.")
 
 # --- 1. HOME PAGE ---
 if selected_page == "Home":
@@ -129,7 +129,7 @@ if selected_page == "Home":
             Welcome to {config.COLLEGE_NAME} AI Assistant
         </h1>
         <p style='font-size: 1.15rem; color: #94a3b8;'>
-            Instant, accurate answers powered by Retrieval-Augmented Generation (RAG) and OpenAI LLM.
+            Instant, accurate answers powered by Retrieval-Augmented Generation (RAG) and Groq Llama 3.1 LLM.
         </p>
         """, unsafe_allow_html=True)
 
@@ -536,7 +536,7 @@ elif selected_page == "About":
         C --> D[(Chroma Vector DB)]
         E[Student Question] --> F[Vector Search\nTop 4 Chunks]
         D --> F
-        F --> G[OpenAI LLM\ngpt-4o-mini]
+        F --> G[Groq Llama 3.1 LLM\ngpt-4o-mini]
         G --> H[Accurate Answer\n+ Source Attribution]
     ```
     """)
@@ -548,7 +548,7 @@ elif selected_page == "About":
     - **RAG Framework:** LangChain
     - **Vector Store:** Chroma DB (Local Persistent)
     - **Embeddings:** HuggingFace `all-MiniLM-L6-v2` (Sentence-Transformers)
-    - **LLM Engine:** OpenAI API (`gpt-4o-mini`)
+    - **LLM Engine:** Groq API (`llama-3.1-8b-instant`)
     - **Analytics:** SQLite3 & Plotly
     - **Testing:** Pytest
     """)
