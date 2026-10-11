@@ -33,9 +33,9 @@ try:
     from langchain_text_splitters import RecursiveCharacterTextSplitter
 except Exception:
     from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_core.documents import Document
-from langchain_community.embeddings import HuggingFaceEmbeddings as SentenceTransformerEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain.schema import Document
+from langchain.embeddings import SentenceTransformerEmbeddings
+from langchain.vectorstores import Chroma
 
 # Optional: Qdrant for self-hosted vector DB
 try:
