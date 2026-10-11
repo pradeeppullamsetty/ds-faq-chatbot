@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 import plotly.express as px
 import streamlit as st
+import streamlit.components.v1 as components
 from streamlit_option_menu import option_menu
 from streamlit_lottie import st_lottie
 from dotenv import load_dotenv
@@ -204,7 +205,7 @@ elif selected_page == "Chat":
 
     # Show avatar when enabled
     if voice_enabled:
-        st.markdown(avatar.render_avatar(), unsafe_allow_html=True)
+        components.html(avatar.render_avatar(), height=110)
 
     # Suggested quick questions
     suggested_cols = st.columns(3)
@@ -228,12 +229,12 @@ elif selected_page == "Chat":
         content = msg["content"]
         sources = msg.get("sources", "")
 
-        avatar = "🎓" if role == "assistant" else "👤"
+        avatar_icon = "🎓" if role == "assistant" else "👤"
         bubble_class = "assistant" if role == "assistant" else "user"
 
         st.markdown(f"""
         <div class="msg-row fade-slide">
-            <div class="avatar">{avatar}</div>
+            <div class="avatar">{avatar_icon}</div>
             <div class="bubble {bubble_class}">
                 {content}
             </div>
@@ -302,9 +303,16 @@ elif selected_page == "Chat":
 
                 # Trigger voice (free, edges.tts); mute on fallback if preferred; here plays for all
                 if voice_enabled:
-                    audio_bytes = voice.get_audio_bytes(answer, locale="en-IN", rate="+20%", volume="+0%")
+                    voice_locale = "ta-IN" if st.session_state.language == "ta" else "en-IN"
+                    with st.spinner("Generating voice..."):
+                        audio_bytes = voice.get_audio_bytes(answer, locale=voice_locale, rate="+10%", volume="+0%")
                     if audio_bytes:
-                        st.audio(audio_bytes, format="audio/mp3")
+                        try:
+                            st.audio(audio_bytes, format="audio/mp3", autoplay=True)
+                        except TypeError:
+                            st.audio(audio_bytes, format="audio/mp3")
+                    else:
+                        st.warning("Voice could not be generated on this server (check Manage app logs).")
 
                 # Append to history
                 st.session_state.messages.append({
