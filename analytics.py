@@ -48,10 +48,7 @@ CREATE TABLE IF NOT EXISTS analytics (
     session_id TEXT,
     source_document TEXT,
     page_number INTEGER,
-    created_at TEXT DEFAULT CURRENT_TIMESTAMP,
-    INDEX idx_analytics_timestamp (timestamp),
-    INDEX idx_analytics_answered (answered),
-    INDEX idx_analytics_date (created_at)
+    created_at TEXT DEFAULT CURRENT_TIMESTAMP
 );
 """
 
@@ -62,7 +59,7 @@ def get_db_connection():
 
     if _db_connection is None:
         db_path = "analytics.db"
-        _db_connection = sqlite3.connect(db_path)
+        _db_connection = sqlite3.connect(db_path, check_same_thread=False)
         _db_connection.row_factory = sqlite3.Row
         _db_connection.execute("PRAGMA foreign_keys = ON")
 
