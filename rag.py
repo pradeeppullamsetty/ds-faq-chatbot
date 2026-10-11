@@ -29,7 +29,10 @@ import requests
 from bs4 import BeautifulSoup
 
 # LangChain imports
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+try:
+    from langchain_text_splitters import RecursiveCharacterTextSplitter
+except Exception:
+    from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
 from langchain.embeddings import SentenceTransformerEmbeddings
 from langchain.vectorstores import Chroma
