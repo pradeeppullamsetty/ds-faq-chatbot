@@ -11,6 +11,8 @@ from dotenv import load_dotenv
 import config
 import rag
 import analytics
+import avatar
+import voice
 
 load_dotenv()
 
@@ -104,21 +106,17 @@ with st.sidebar:
     )
 
     st.markdown("---")
+    # Voice / Avatar toggle
+    voice_enabled = st.sidebar.checkbox("🔊 Voice & Avatar", value=True)
+
     # Language Toggle
     lang_choice = st.selectbox("🌐 Language / மொழி", ["English", "தமிழ் (Tamil)"], index=0 if st.session_state.language == "en" else 1)
     st.session_state.language = "en" if lang_choice == "English" else "ta"
 
     # API Key check
-    groq_api_key = os.getenv("GROQ_API_KEY", "")
+    groq_api_key = os.getenv("GROQ_API_KEY", "") or st.secrets.get("GROQ_API_KEY", "")
     if not groq_api_key:
-        try:
-            groq_api_key = st.secrets.get("GROQ_API_KEY", "")
-        except Exception:
-            groq_api_key = ""
-    if groq_api_key:
-        os.environ["GROQ_API_KEY"] = groq_api_key
-    else:
-        st.warning("⚠️ GROQ_API_KEY not found in .env or Streamlit Secrets.")
+        st.warning("⚠️ GROQ_API_KEY not found in .env or Secrets.")
 
 # --- 1. HOME PAGE ---
 if selected_page == "Home":
@@ -203,6 +201,10 @@ elif selected_page == "Chat":
     </h2>
     <p style='color: #94a3b8;'>Ask any questions about admissions, fees, hostel rules, courses, and placements.</p>
     """, unsafe_allow_html=True)
+
+    # Show avatar when enabled
+    if voice_enabled:
+        st.markdown(avatar.render_avatar(), unsafe_allow_html=True)
 
     # Suggested quick questions
     suggested_cols = st.columns(3)
@@ -297,6 +299,12 @@ elif selected_page == "Chat":
                 if sources and is_answered:
                     with st.expander("📚 View Supporting Sources"):
                         st.markdown(f"<small>{sources}</small>", unsafe_allow_html=True)
+
+                # Trigger voice (free, edges.tts); mute on fallback if preferred; here plays for all
+                if voice_enabled:
+                    audio_bytes = voice.get_audio_bytes(answer, locale="en-IN", rate="+20%", volume="+0%")
+                    if audio_bytes:
+                        st.audio(audio_bytes, format="audio/mp3")
 
                 # Append to history
                 st.session_state.messages.append({
@@ -463,7 +471,6 @@ elif selected_page == "Knowledge Base":
     uploaded_files = st.file_uploader("Upload PDF or TXT files", type=["pdf", "txt"], accept_multiple_files=True)
     if uploaded_files:
         for up in uploaded_files:
-            os.makedirs("data", exist_ok=True)
             save_path = os.path.join("data", up.name)
             with open(save_path, "wb") as f:
                 f.write(up.getbuffer())
@@ -536,7 +543,7 @@ elif selected_page == "About":
         C --> D[(Chroma Vector DB)]
         E[Student Question] --> F[Vector Search\nTop 4 Chunks]
         D --> F
-        F --> G[Groq Llama 3.1 LLM\ngpt-4o-mini]
+        F --> G[Groq LLM\nLlama 3.1 8B]
         G --> H[Accurate Answer\n+ Source Attribution]
     ```
     """)

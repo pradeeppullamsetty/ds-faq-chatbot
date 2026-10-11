@@ -1,0 +1,82 @@
+# Sample College - Admissions Information
+
+## Admission Process Overview
+Sample College follows a transparent and merit-based admission process for all undergraduate and postgraduate programs. The academic year begins in July, with applications opening in March and closing by end of May.
+
+## Undergraduate Admissions (B.Tech, B.Sc, BBA, BCA)
+
+### Eligibility Criteria
+- **B.Tech Programs**: Candidates must have passed 10+2 or equivalent examination with Physics, Chemistry, and Mathematics as compulsory subjects. Minimum 60% aggregate marks (55% for reserved categories).
+- **B.Sc Programs**: 10+2 with Science stream (PCM/PCB) with minimum 55% aggregate marks.
+- **BBA/BCA Programs**: 10+2 in any stream with minimum 50% aggregate marks.
+
+### Entrance Exams Accepted
+- **JEE Main** (for B.Tech): Valid score required. College cutoff varies by branch (typically 85th percentile and above).
+- **State CET** (for B.Tech/B.Sc): Valid rank in state common entrance test.
+- **College Entrance Test (CET-SC)**: Conducted by Sample College for direct admission to B.Sc, BBA, and BCA programs. Exam held in May.
+
+### Application Process
+1. **Online Registration**: Visit admissions.samplecollege.edu.in and create an account
+2. **Fill Application Form**: Personal details, academic qualifications, program preferences
+3. **Upload Documents**:
+   - 10th and 12th mark sheets
+   - Entrance exam scorecard
+   - Category certificate (if applicable)
+   - Passport-size photograph
+   - Aadhar card
+4. **Pay Application Fee**: INR 1,500 (General), INR 1,000 (Reserved categories)
+5. **Submit and Track**: Receive application ID for status tracking
+
+### Important Dates (Tentative for 2024-25)
+- Application Opens: March 1, 2024
+- Application Closes: May 31, 2024
+- CET-SC Exam: June 15, 2024
+- Results Declaration: June 30, 2024
+- Counseling Starts: July 10, 2024
+- Classes Commence: August 1, 2024
+
+## Postgraduate Admissions (M.Tech, M.Sc, MBA, MCA)
+
+### Eligibility Criteria
+- **M.Tech**: B.Tech/B.E. in relevant branch with minimum 60% aggregate (55% reserved). Valid GATE score preferred.
+- **M.Sc**: B.Sc in relevant subject with minimum 55% aggregate.
+- **MBA**: Bachelor's degree in any discipline with minimum 50% aggregate. CAT/MAT/XAT/CMAT score accepted.
+- **MCA**: BCA/B.Sc (CS/IT) with minimum 55% aggregate. Valid NIMCET or state MCA entrance score.
+
+### Application Process
+Similar to UG process, application fee: INR 2,000 (General), INR 1,500 (Reserved).
+
+## Lateral Entry Admissions
+- **B.Tech Lateral Entry**: Diploma holders in Engineering (3-year) with minimum 60% marks. Admission to 2nd year (3rd semester).
+- **MCA Lateral Entry**: BCA/B.Sc (CS) graduates admitted to 2nd year.
+
+## International Students
+- Separate quota of 15% seats in each program
+- Eligibility: Equivalent qualifications recognized by AIU
+- Application through ICCR or direct with additional documents (passport, visa, equivalence certificate)
+
+## Reservation Policy
+As per Government of India norms:
+- SC: 15%
+- ST: 7.5%
+- OBC-NCL: 27%
+- EWS: 10%
+- PwD: 5% horizontal reservation
+
+## Documents Required at Admission
+Originals + 2 sets of self-attested photocopies:
+1. All mark sheets and certificates (10th onwards)
+2. Entrance exam scorecard
+3. Transfer/Migration Certificate
+4. Character Certificate
+5. Category Certificate (if applicable)
+6. Medical Fitness Certificate
+7. Anti-ragging affidavit (student + parent)
+8. 6 passport-size photographs
+9. Aadhar card copy
+
+## Contact Admissions Office
+- **Phone**: +91-XXXX-XXXXXX
+- **Email**: admissions@samplecollege.edu.in
+- **Office Hours**: Monday-Friday 9:00 AM - 5:00 PM, Saturday 9:00 AM - 1:00 PM
+- **Address**: Sample College, Knowledge Park, City - 123456

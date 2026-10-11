@@ -19,8 +19,8 @@ ACCENT_COLOR = os.getenv("ACCENT_COLOR", "38bdf8")  # Cyan
 # Logo path (relative to outputs folder)
 LOGO_PATH = os.getenv("LOGO_PATH", "assets/logo.svg")
 
-# OpenAI API key - read from environment / Streamlit secrets (never hardcode)
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+# Groq API key - read from environment
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 
 # Embedding model name
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
@@ -39,7 +39,7 @@ RETRIEVAL_TOP_K = 4
 SUPPORTED_EXTENSIONS = [".pdf", ".txt"]
 
 # LLM configuration
-DEFAULT_LLM_MODEL = "gpt-4o-mini"
+DEFAULT_LLM_MODEL = "llama-3.1-8b-instant"  # Current free Groq Llama model
 
 # Page for metadata
 DEFAULT_PAGE = 1
