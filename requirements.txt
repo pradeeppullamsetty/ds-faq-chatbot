@@ -20,3 +20,4 @@ edge-tts>=6.1.11
 webrtcvad>=2.0.10
    langchain-core>=0.2.0
    langchain-text-splitters>=0.2.0
+gTTS>=2.5.0
